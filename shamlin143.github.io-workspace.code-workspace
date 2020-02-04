@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "github.io-Homework-master"
+		},
+		{
+			"path": "demo_repo"
+		},
+		{
+			"path": "shamlin143.github.io-Homework"
+		},
+		{
+			"path": "shamlin143.gihub.io"
+		},
+		{
+			"path": "UTSA-SAN-FSF-PT-01-2020-U-C"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "github.io-Homework-master"
+	}
+}
